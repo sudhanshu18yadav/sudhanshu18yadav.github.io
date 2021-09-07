@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sudhanshu yadav. I am a data science enthusiast:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love machine learning.
+- I love to read books
 
-What else do you need?
+anything else do you need?
 
 ### My story
 
